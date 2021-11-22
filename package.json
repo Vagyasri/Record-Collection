@@ -1,7 +1,7 @@
 {
   "name": "record-collection",
   "version": "1.0.0",
-  "description": "In this project, we are creating a website consisting of Recipes from around the world. We are using a Kanban board for practice purposes and we have used an external API.s",
+  "description": "In this project, I have started with an updateRecords function that takes an object literal, records, containing the musical album collection, an id, a prop (like artist or tracks), and a value. The function has been created using the rules below to modify the object passed to the function.",
   "private": true,
   "scripts": {
     "test": "jest",
